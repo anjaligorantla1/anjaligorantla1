@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANJALI GORANTLA</h1>
 <h3 align="center">A passionate Full Stack Python Developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"&gt;
+
 - 🔭 I’m currently working on **Employee Database Management**
 
 - 🌱 I’m currently learning **Full Stack Python(Completed)**
